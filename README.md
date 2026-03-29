@@ -4,7 +4,6 @@
  
 ![Score](https://img.shields.io/badge/Kaggle%20Score-0.9149-blue)
 ![Top](https://img.shields.io/badge/Leaderboard-Top%2015%25-green)
-![Python](https://img.shields.io/badge/Python-3.10-yellow)
  
 ---
  
